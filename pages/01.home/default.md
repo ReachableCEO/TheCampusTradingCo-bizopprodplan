@@ -1,3 +1,8 @@
+---
+title: 'The Campus Trading Company - Business/Operations/Product Plan - Introduction'
+menu: 'The Campus Trading Company - Business/Operations/Product Plan - Introduction'
+---
+
 # The Campus Trading Company - Business/Operations/Product Plan - Introduction
 
 ## Executive Summary
